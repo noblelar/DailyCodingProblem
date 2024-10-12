@@ -29,8 +29,22 @@ print(two_sums(nums, k))
 # For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120, 60, 40, 30, 24]. If our input was [3, 2, 1], the expected output would be [2, 3, 6].
 
 # Follow-up: what if you can't use division?
+# ? With Division
+def productAll(list):
+   product = 1
+   for n in range(len(list)):
+      product = product * list[n]
+   return product
 
+def productAllExceptSelf(list):
+   new_list = []
+   the_product = productAll(list)
+   for n in range(len(list)):
+      newProductItem = the_product/list[n]
+      new_list.append(newProductItem)
+   return new_list
 
+# ? Without Division
 def productExceptSelf (nums):
    n = len(nums)
    leftProduct = [1 for _ in range(n)]
@@ -55,3 +69,4 @@ def productExceptSelf (nums):
 #  Example usage
 nums1 = [1, 2, 3, 4, 5]
 print(productExceptSelf(nums1))
+print(productAllExceptSelf(nums))
