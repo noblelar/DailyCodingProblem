@@ -39,6 +39,7 @@ def productAll(list):
 def productAllExceptSelf(list):
    new_list = []
    the_product = productAll(list)
+   print(the_product)
    for n in range(len(list)):
       newProductItem = the_product/list[n]
       new_list.append(newProductItem)
@@ -69,4 +70,4 @@ def productExceptSelf (nums):
 #  Example usage
 nums1 = [1, 2, 3, 4, 5]
 print(productExceptSelf(nums1))
-print(productAllExceptSelf(nums))
+print(productAllExceptSelf(nums1))
