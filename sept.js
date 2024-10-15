@@ -54,6 +54,10 @@ function create_array(nums) {
   return soln;
 }
 
+// ? WITH DIVISION 
+
+
+
 // ? SOLUTION 2 {O(N)}
 function productExceptSelf(nums) {
   const n = nums.length;
