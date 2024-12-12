@@ -67,5 +67,5 @@ def gen_nums(num):
    # print(I)  
 
 
-gen_nums(100)
+gen_nums(200)
 
