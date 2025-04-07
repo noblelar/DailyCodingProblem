@@ -1,0 +1,114 @@
+[
+   {
+       "ADM1_EN": "Ahafo",
+       "ADM1_PCODE": "GH01",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "5194.971191"
+   },
+   {
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "24379.39258"
+   },
+   {
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "11646.88867"
+   },
+   {
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "23256.38281"
+   },
+   {
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "9663.532227"
+   },
+   {
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "18965.83203"
+   },
+   {
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "3699.325195"
+   },
+   {
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "24849.33008"
+   },
+   {
+       "ADM1_EN": "Northern East",
+       "ADM1_PCODE": "GH09",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "9074.636719"
+   },
+   {
+       "ADM1_EN": "Oti",
+       "ADM1_PCODE": "GH10",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "11065.96484"
+   },
+   {
+       "ADM1_EN": "Savannah",
+       "ADM1_PCODE": "GH11",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "35863.00781"
+   },
+   {
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "8622.267578"
+   },
+   {
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "19033.46094"
+   },
+   {
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "9825.085938"
+   },
+   {
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "14258.33105"
+   },
+   {
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "10074.81836"
+   }
+]

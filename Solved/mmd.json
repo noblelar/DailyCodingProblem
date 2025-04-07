@@ -1,0 +1,2342 @@
+[
+   {
+       "ADM2_EN": "Asunafo North Municipal",
+       "ADM2_PCODE": "GH0101",
+       "ADM1_EN": "Ahafo",
+       "ADM1_PCODE": "GH01",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1411.502808"
+   },
+   {
+       "ADM2_EN": "Asutifi North",
+       "ADM2_PCODE": "GH0103",
+       "ADM1_EN": "Ahafo",
+       "ADM1_PCODE": "GH01",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "935.7700806"
+   },
+   {
+       "ADM2_EN": "Asunafo South",
+       "ADM2_PCODE": "GH0102",
+       "ADM1_EN": "Ahafo",
+       "ADM1_PCODE": "GH01",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "923.6043091"
+   },
+   {
+       "ADM2_EN": "Tano North Municipal",
+       "ADM2_PCODE": "GH0105",
+       "ADM1_EN": "Ahafo",
+       "ADM1_PCODE": "GH01",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "837.6582642"
+   },
+   {
+       "ADM2_EN": "Asutifi South",
+       "ADM2_PCODE": "GH0104",
+       "ADM1_EN": "Ahafo",
+       "ADM1_PCODE": "GH01",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "597.4546509"
+   },
+   {
+       "ADM2_EN": "Tano South Municipal",
+       "ADM2_PCODE": "GH0106",
+       "ADM1_EN": "Ahafo",
+       "ADM1_PCODE": "GH01",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "488.9811096"
+   },
+   {
+       "ADM2_EN": "Sekyere Afram Plains North",
+       "ADM2_PCODE": "GH0238",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "3526.865723"
+   },
+   {
+       "ADM2_EN": "Atwima Mponua",
+       "ADM2_PCODE": "GH0219",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1883.161133"
+   },
+   {
+       "ADM2_EN": "Sekyere Central",
+       "ADM2_PCODE": "GH0239",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1631.855103"
+   },
+   {
+       "ADM2_EN": "Ejura-Sekyedumase",
+       "ADM2_PCODE": "GH0226",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1340.673584"
+   },
+   {
+       "ADM2_EN": "Asante Akim South",
+       "ADM2_PCODE": "GH0215",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1153.727661"
+   },
+   {
+       "ADM2_EN": "Asante Akim North",
+       "ADM2_PCODE": "GH0214",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1126.036255"
+   },
+   {
+       "ADM2_EN": "Offinso North",
+       "ADM2_PCODE": "GH0235",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "946.5356445"
+   },
+   {
+       "ADM2_EN": "Amansie Central",
+       "ADM2_PCODE": "GH0210",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "849.7130127"
+   },
+   {
+       "ADM2_EN": "Adansi South",
+       "ADM2_PCODE": "GH0204",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "761.0606689"
+   },
+   {
+       "ADM2_EN": "Ahafo Ano South East",
+       "ADM2_PCODE": "GH0208",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "686.0632324"
+   },
+   {
+       "ADM2_EN": "Mampong Municipal",
+       "ADM2_PCODE": "GH0231",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "670.4794312"
+   },
+   {
+       "ADM2_EN": "Amansie West",
+       "ADM2_PCODE": "GH0212",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "637.9365845"
+   },
+   {
+       "ADM2_EN": "Adansi Asokwa",
+       "ADM2_PCODE": "GH0202",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "595.5606079"
+   },
+   {
+       "ADM2_EN": "Ahafo Ano North",
+       "ADM2_PCODE": "GH0207",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "593.6286011"
+   },
+   {
+       "ADM2_EN": "Amansie South",
+       "ADM2_PCODE": "GH0211",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "593.4155884"
+   },
+   {
+       "ADM2_EN": "Offinso Municipal",
+       "ADM2_PCODE": "GH0234",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "586.0461426"
+   },
+   {
+       "ADM2_EN": "Sekyere Kumawu",
+       "ADM2_PCODE": "GH0241",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "576.6567383"
+   },
+   {
+       "ADM2_EN": "Bosome Freho",
+       "ADM2_PCODE": "GH0223",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "568.7909546"
+   },
+   {
+       "ADM2_EN": "Adansi Akrofuom",
+       "ADM2_PCODE": "GH0201",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "568.2230835"
+   },
+   {
+       "ADM2_EN": "Bekwai Municipal",
+       "ADM2_PCODE": "GH0222",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "535.5853882"
+   },
+   {
+       "ADM2_EN": "Ahafo Ano South West",
+       "ADM2_PCODE": "GH0209",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "504.7346802"
+   },
+   {
+       "ADM2_EN": "Bosomtwe",
+       "ADM2_PCODE": "GH0224",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "422.7356567"
+   },
+   {
+       "ADM2_EN": "Sekyere South",
+       "ADM2_PCODE": "GH0242",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "416.663269"
+   },
+   {
+       "ADM2_EN": "Ejisu Municipal",
+       "ADM2_PCODE": "GH0225",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "411.4703369"
+   },
+   {
+       "ADM2_EN": "Atwima Nwabiagya South",
+       "ADM2_PCODE": "GH0221",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "366.4259033"
+   },
+   {
+       "ADM2_EN": "Asante Akim Central Municipal",
+       "ADM2_PCODE": "GH0213",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "300.2566833"
+   },
+   {
+       "ADM2_EN": "Adansi North",
+       "ADM2_PCODE": "GH0203",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "258.1149597"
+   },
+   {
+       "ADM2_EN": "Atwima Kwanwoma",
+       "ADM2_PCODE": "GH0218",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "251.5715942"
+   },
+   {
+       "ADM2_EN": "Sekyere East",
+       "ADM2_PCODE": "GH0240",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "239.1556396"
+   },
+   {
+       "ADM2_EN": "Afigya Kwabre South",
+       "ADM2_PCODE": "GH0206",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "223.3482361"
+   },
+   {
+       "ADM2_EN": "Atwima Nwabiagya North",
+       "ADM2_PCODE": "GH0220",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "212.6713104"
+   },
+   {
+       "ADM2_EN": "Afigya Kwabre North",
+       "ADM2_PCODE": "GH0205",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "186.7276917"
+   },
+   {
+       "ADM2_EN": "Juaben Municipal",
+       "ADM2_PCODE": "GH0227",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "171.2492371"
+   },
+   {
+       "ADM2_EN": "Obuasi Municipal",
+       "ADM2_PCODE": "GH0233",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "145.7474365"
+   },
+   {
+       "ADM2_EN": "Kwabre East",
+       "ADM2_PCODE": "GH0229",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "123.0723953"
+   },
+   {
+       "ADM2_EN": "Obuasi East",
+       "ADM2_PCODE": "GH0232",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "75.00788879"
+   },
+   {
+       "ADM2_EN": "Kwadaso Municipal",
+       "ADM2_PCODE": "GH0230",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "64.12600708"
+   },
+   {
+       "ADM2_EN": "Oforikrom Municipal",
+       "ADM2_PCODE": "GH0236",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "45.33994293"
+   },
+   {
+       "ADM2_EN": "Old Tafo Municipal",
+       "ADM2_PCODE": "GH0237",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "29.07672691"
+   },
+   {
+       "ADM2_EN": "Suame Municipal",
+       "ADM2_PCODE": "GH0243",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "27.64546585"
+   },
+   {
+       "ADM2_EN": "Asokwa  Municipal",
+       "ADM2_PCODE": "GH0217",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "26.82635689"
+   },
+   {
+       "ADM2_EN": "Asokore Mampong Municipal",
+       "ADM2_PCODE": "GH0216",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "23.76193237"
+   },
+   {
+       "ADM2_EN": "Kumasi Metropolitan",
+       "ADM2_PCODE": "GH0228",
+       "ADM1_EN": "Ashanti",
+       "ADM1_PCODE": "GH02",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "21.64864922"
+   },
+   {
+       "ADM2_EN": "Banda",
+       "ADM2_PCODE": "GH0301",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2297.822754"
+   },
+   {
+       "ADM2_EN": "Tain",
+       "ADM2_PCODE": "GH0311",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1829.964844"
+   },
+   {
+       "ADM2_EN": "Dormaa Municipal",
+       "ADM2_PCODE": "GH0305",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1209.296021"
+   },
+   {
+       "ADM2_EN": "Wenchi Municipal",
+       "ADM2_PCODE": "GH0312",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1145.096802"
+   },
+   {
+       "ADM2_EN": "Sunyani West",
+       "ADM2_PCODE": "GH0310",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1059.095337"
+   },
+   {
+       "ADM2_EN": "Jaman North",
+       "ADM2_PCODE": "GH0307",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1030.330811"
+   },
+   {
+       "ADM2_EN": "Jaman South Municipal",
+       "ADM2_PCODE": "GH0308",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "754.9061279"
+   },
+   {
+       "ADM2_EN": "Dormaa East",
+       "ADM2_PCODE": "GH0304",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "570.1375732"
+   },
+   {
+       "ADM2_EN": "Sunyani Municipal",
+       "ADM2_PCODE": "GH0309",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "506.6488647"
+   },
+   {
+       "ADM2_EN": "Berekum East Municipal",
+       "ADM2_PCODE": "GH0302",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "461.9427185"
+   },
+   {
+       "ADM2_EN": "Berekum West",
+       "ADM2_PCODE": "GH0303",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "401.3377075"
+   },
+   {
+       "ADM2_EN": "Dormaa West",
+       "ADM2_PCODE": "GH0306",
+       "ADM1_EN": "Bono",
+       "ADM1_PCODE": "GH03",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "380.3096008"
+   },
+   {
+       "ADM2_EN": "Kintampo North Municipal",
+       "ADM2_PCODE": "GH0402",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "4889.73584"
+   },
+   {
+       "ADM2_EN": "Sene East",
+       "ADM2_PCODE": "GH0408",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "4393.653809"
+   },
+   {
+       "ADM2_EN": "Sene West",
+       "ADM2_PCODE": "GH0409",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "3263.587891"
+   },
+   {
+       "ADM2_EN": "Atebubu Amantin",
+       "ADM2_PCODE": "GH0401",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2625.300781"
+   },
+   {
+       "ADM2_EN": "Pru East",
+       "ADM2_PCODE": "GH0406",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1652.061401"
+   },
+   {
+       "ADM2_EN": "Pru West",
+       "ADM2_PCODE": "GH0407",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1569.530273"
+   },
+   {
+       "ADM2_EN": "Kintampo South",
+       "ADM2_PCODE": "GH0403",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1514.061401"
+   },
+   {
+       "ADM2_EN": "Nkoranza North",
+       "ADM2_PCODE": "GH0404",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1386.936279"
+   },
+   {
+       "ADM2_EN": "Nkoranza South",
+       "ADM2_PCODE": "GH0405",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "922.8499146"
+   },
+   {
+       "ADM2_EN": "Techiman Municipal",
+       "ADM2_PCODE": "GH0410",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "649.090271"
+   },
+   {
+       "ADM2_EN": "Techiman North",
+       "ADM2_PCODE": "GH0411",
+       "ADM1_EN": "Bono East",
+       "ADM1_PCODE": "GH04",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "389.5753479"
+   },
+   {
+       "ADM2_EN": "Assin South",
+       "ADM2_PCODE": "GH0508",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1100.941772"
+   },
+   {
+       "ADM2_EN": "Twifo Atti-Morkwa",
+       "ADM2_PCODE": "GH0519",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "956.2587891"
+   },
+   {
+       "ADM2_EN": "Asikuma-Odoben-Brakwa",
+       "ADM2_PCODE": "GH0505",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "773.3058472"
+   },
+   {
+       "ADM2_EN": "Assin North",
+       "ADM2_PCODE": "GH0507",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "725.9382935"
+   },
+   {
+       "ADM2_EN": "Upper Denkyira West",
+       "ADM2_PCODE": "GH0522",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "579.3063354"
+   },
+   {
+       "ADM2_EN": "Twifo Hemang Lower Denkyira",
+       "ADM2_PCODE": "GH0520",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "575.8510132"
+   },
+   {
+       "ADM2_EN": "Gomoa East",
+       "ADM2_PCODE": "GH0515",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "540.0686646"
+   },
+   {
+       "ADM2_EN": "Ajumako-Enyan-Essiam",
+       "ADM2_PCODE": "GH0504",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "521.7037964"
+   },
+   {
+       "ADM2_EN": "Upper Denkyira East Municipal",
+       "ADM2_PCODE": "GH0521",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "501.8609619"
+   },
+   {
+       "ADM2_EN": "Komenda-Edina-Eguafo-Abirem Municipal",
+       "ADM2_PCODE": "GH0517",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "452.7084351"
+   },
+   {
+       "ADM2_EN": "Abura-Asebu-Kwamankese",
+       "ADM2_PCODE": "GH0501",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "377.0946655"
+   },
+   {
+       "ADM2_EN": "Agona West Municipal",
+       "ADM2_PCODE": "GH0503",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "356.1689453"
+   },
+   {
+       "ADM2_EN": "Gomoa West",
+       "ADM2_PCODE": "GH0516",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "337.1204529"
+   },
+   {
+       "ADM2_EN": "Agona East",
+       "ADM2_PCODE": "GH0502",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "327.4892883"
+   },
+   {
+       "ADM2_EN": "Mfantseman Municipal",
+       "ADM2_PCODE": "GH0518",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "300.6257324"
+   },
+   {
+       "ADM2_EN": "Assin Fosu",
+       "ADM2_PCODE": "GH0506",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "279.0185547"
+   },
+   {
+       "ADM2_EN": "Ekumfi",
+       "ADM2_PCODE": "GH0513",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "276.6512756"
+   },
+   {
+       "ADM2_EN": "Awutu Senya",
+       "ADM2_PCODE": "GH0509",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "244.7576904"
+   },
+   {
+       "ADM2_EN": "Cape Coast Metropolitan",
+       "ADM2_PCODE": "GH0511",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "122.1396408"
+   },
+   {
+       "ADM2_EN": "Gomoa Central",
+       "ADM2_PCODE": "GH0514",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "121.3852692"
+   },
+   {
+       "ADM2_EN": "Awutu Senya East",
+       "ADM2_PCODE": "GH0510",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "107.7663803"
+   },
+   {
+       "ADM2_EN": "Effutu Municipal",
+       "ADM2_PCODE": "GH0512",
+       "ADM1_EN": "Central",
+       "ADM1_PCODE": "GH05",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "85.3709259"
+   },
+   {
+       "ADM2_EN": "Kwahu Afram Plains South",
+       "ADM2_PCODE": "GH0620",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "3096.375"
+   },
+   {
+       "ADM2_EN": "Kwahu Afram Plains North",
+       "ADM2_PCODE": "GH0619",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2341.901367"
+   },
+   {
+       "ADM2_EN": "Upper Manya",
+       "ADM2_PCODE": "GH0630",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "859.2386475"
+   },
+   {
+       "ADM2_EN": "Fanteakwa North",
+       "ADM2_PCODE": "GH0616",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "836.9692993"
+   },
+   {
+       "ADM2_EN": "Kwaebibirem",
+       "ADM2_PCODE": "GH0618",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "803.4753418"
+   },
+   {
+       "ADM2_EN": "Kwahu South",
+       "ADM2_PCODE": "GH0622",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "795.9884644"
+   },
+   {
+       "ADM2_EN": "Asuogyaman",
+       "ADM2_PCODE": "GH0608",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "766.1825562"
+   },
+   {
+       "ADM2_EN": "Kwahu East",
+       "ADM2_PCODE": "GH0621",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "623.7585449"
+   },
+   {
+       "ADM2_EN": "Akyem Mansa",
+       "ADM2_PCODE": "GH0606",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "611.7791138"
+   },
+   {
+       "ADM2_EN": "Atiwa West",
+       "ADM2_PCODE": "GH0610",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "585.9662476"
+   },
+   {
+       "ADM2_EN": "Atiwa East",
+       "ADM2_PCODE": "GH0609",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "580.2705078"
+   },
+   {
+       "ADM2_EN": "Birim North",
+       "ADM2_PCODE": "GH0613",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "567.1517944"
+   },
+   {
+       "ADM2_EN": "Ayensuano",
+       "ADM2_PCODE": "GH0611",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "499.4930115"
+   },
+   {
+       "ADM2_EN": "Yilo Krobo",
+       "ADM2_PCODE": "GH0633",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "483.4009094"
+   },
+   {
+       "ADM2_EN": "West Akim",
+       "ADM2_PCODE": "GH0632",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "475.5773315"
+   },
+   {
+       "ADM2_EN": "Denkyembour",
+       "ADM2_PCODE": "GH0615",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "436.6028442"
+   },
+   {
+       "ADM2_EN": "Asene Akroso Manso",
+       "ADM2_PCODE": "GH0607",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "419.0731506"
+   },
+   {
+       "ADM2_EN": "Achiase",
+       "ADM2_PCODE": "GH0603",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "414.5851746"
+   },
+   {
+       "ADM2_EN": "Kwahu West",
+       "ADM2_PCODE": "GH0623",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "400.8560181"
+   },
+   {
+       "ADM2_EN": "Suhum Municipal",
+       "ADM2_PCODE": "GH0629",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "358.7937622"
+   },
+   {
+       "ADM2_EN": "Abuakwa South",
+       "ADM2_PCODE": "GH0602",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "349.436554"
+   },
+   {
+       "ADM2_EN": "Upper West Akim",
+       "ADM2_PCODE": "GH0631",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "342.4172363"
+   },
+   {
+       "ADM2_EN": "Birim South",
+       "ADM2_PCODE": "GH0614",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "311.7458801"
+   },
+   {
+       "ADM2_EN": "Akwapem North",
+       "ADM2_PCODE": "GH0604",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "306.7166443"
+   },
+   {
+       "ADM2_EN": "Okere",
+       "ADM2_PCODE": "GH0628",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "306.6797791"
+   },
+   {
+       "ADM2_EN": "Lower Manya",
+       "ADM2_PCODE": "GH0624",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "304.6277466"
+   },
+   {
+       "ADM2_EN": "Fanteakwa South",
+       "ADM2_PCODE": "GH0617",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "262.3085327"
+   },
+   {
+       "ADM2_EN": "Akwapem South",
+       "ADM2_PCODE": "GH0605",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "224.2065887"
+   },
+   {
+       "ADM2_EN": "Nsawam Adoagyiri",
+       "ADM2_PCODE": "GH0627",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "174.996582"
+   },
+   {
+       "ADM2_EN": "Abuakwa North",
+       "ADM2_PCODE": "GH0601",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "158.7801971"
+   },
+   {
+       "ADM2_EN": "Birim Central Municipal",
+       "ADM2_PCODE": "GH0612",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "106.6466446"
+   },
+   {
+       "ADM2_EN": "New Juaben North Municipal",
+       "ADM2_PCODE": "GH0625",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "105.4843445"
+   },
+   {
+       "ADM2_EN": "New Juaben South Municipal",
+       "ADM2_PCODE": "GH0626",
+       "ADM1_EN": "Eastern",
+       "ADM1_PCODE": "GH06",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "54.34550095"
+   },
+   {
+       "ADM2_EN": "Shai Osudoku",
+       "ADM2_PCODE": "GH0726",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "969.1779785"
+   },
+   {
+       "ADM2_EN": "Ningo/Prampram",
+       "ADM2_PCODE": "GH0724",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "622.2961426"
+   },
+   {
+       "ADM2_EN": "Ada West",
+       "ADM2_PCODE": "GH0706",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "323.5602112"
+   },
+   {
+       "ADM2_EN": "Ada East",
+       "ADM2_PCODE": "GH0705",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "289.5949097"
+   },
+   {
+       "ADM2_EN": "Kpone Katamanso",
+       "ADM2_PCODE": "GH0719",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "240.0870209"
+   },
+   {
+       "ADM2_EN": "Ga South Municipal",
+       "ADM2_PCODE": "GH0716",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "178.1198425"
+   },
+   {
+       "ADM2_EN": "Ga West Municipal",
+       "ADM2_PCODE": "GH0717",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "174.9741669"
+   },
+   {
+       "ADM2_EN": "Weija Gbawe Municipal",
+       "ADM2_PCODE": "GH0729",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "163.8504028"
+   },
+   {
+       "ADM2_EN": "Ga North Municipal",
+       "ADM2_PCODE": "GH0715",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "124.6707993"
+   },
+   {
+       "ADM2_EN": "Ga East",
+       "ADM2_PCODE": "GH0714",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "85.86156464"
+   },
+   {
+       "ADM2_EN": "Adenta Municipal",
+       "ADM2_PCODE": "GH0707",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "78.02601624"
+   },
+   {
+       "ADM2_EN": "La-Nkwantanang-Madina",
+       "ADM2_PCODE": "GH0722",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "70.94379425"
+   },
+   {
+       "ADM2_EN": "Ga Central Municipal",
+       "ADM2_PCODE": "GH0713",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "49.06740952"
+   },
+   {
+       "ADM2_EN": "Tema West Municipal",
+       "ADM2_PCODE": "GH0728",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "45.25410461"
+   },
+   {
+       "ADM2_EN": "Tema Metropolitan",
+       "ADM2_PCODE": "GH0727",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "42.52855682"
+   },
+   {
+       "ADM2_EN": "La Dade-Kotopon",
+       "ADM2_PCODE": "GH0721",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "36.10689545"
+   },
+   {
+       "ADM2_EN": "Ayawaso West",
+       "ADM2_PCODE": "GH0712",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "32.72821426"
+   },
+   {
+       "ADM2_EN": "Ablekuma North Municipal",
+       "ADM2_PCODE": "GH0702",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "29.51795006"
+   },
+   {
+       "ADM2_EN": "Ledzokuku Municipal",
+       "ADM2_PCODE": "GH0723",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "29.10015869"
+   },
+   {
+       "ADM2_EN": "Okaikwei North Municipal",
+       "ADM2_PCODE": "GH0725",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "22.45950699"
+   },
+   {
+       "ADM2_EN": "Ashaiman Municipal",
+       "ADM2_PCODE": "GH0708",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "18.51088905"
+   },
+   {
+       "ADM2_EN": "Krowor Municipal",
+       "ADM2_PCODE": "GH0720",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "18.12750053"
+   },
+   {
+       "ADM2_EN": "Ablekuma Central Municipal",
+       "ADM2_PCODE": "GH0701",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "14.14818859"
+   },
+   {
+       "ADM2_EN": "Ablekuma West Municipal",
+       "ADM2_PCODE": "GH0703",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "12.61132813"
+   },
+   {
+       "ADM2_EN": "Korle Klottey Municipal",
+       "ADM2_PCODE": "GH0718",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "9.776344299"
+   },
+   {
+       "ADM2_EN": "Ayawaso East Municipal",
+       "ADM2_PCODE": "GH0710",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "6.228379726"
+   },
+   {
+       "ADM2_EN": "Accra Metropolis",
+       "ADM2_PCODE": "GH0704",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "5.58810854"
+   },
+   {
+       "ADM2_EN": "Ayawaso North Municipal",
+       "ADM2_PCODE": "GH0711",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "4.891626358"
+   },
+   {
+       "ADM2_EN": "Ayawaso Central Municipal",
+       "ADM2_PCODE": "GH0709",
+       "ADM1_EN": "Greater Accra",
+       "ADM1_PCODE": "GH07",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1.517162561"
+   },
+   {
+       "ADM2_EN": "Karaga",
+       "ADM2_PCODE": "GH0802",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "3120.905273"
+   },
+   {
+       "ADM2_EN": "Mion",
+       "ADM2_PCODE": "GH0805",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2714.693604"
+   },
+   {
+       "ADM2_EN": "Gushegu",
+       "ADM2_PCODE": "GH0801",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2674.227539"
+   },
+   {
+       "ADM2_EN": "Nanumba North",
+       "ADM2_PCODE": "GH0807",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2261.640625"
+   },
+   {
+       "ADM2_EN": "Nanumba South",
+       "ADM2_PCODE": "GH0808",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1789.046143"
+   },
+   {
+       "ADM2_EN": "Saboba",
+       "ADM2_PCODE": "GH0809",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1751.472778"
+   },
+   {
+       "ADM2_EN": "Savelugu",
+       "ADM2_PCODE": "GH0811",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1546.682739"
+   },
+   {
+       "ADM2_EN": "Kumbungu",
+       "ADM2_PCODE": "GH0804",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1541.748779"
+   },
+   {
+       "ADM2_EN": "Yendi Municipal",
+       "ADM2_PCODE": "GH0815",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1446.756348"
+   },
+   {
+       "ADM2_EN": "Tolon",
+       "ADM2_PCODE": "GH0814",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1354.191772"
+   },
+   {
+       "ADM2_EN": "Kpandai",
+       "ADM2_PCODE": "GH0803",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1133.295898"
+   },
+   {
+       "ADM2_EN": "Zabzugu",
+       "ADM2_PCODE": "GH0816",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1099.953369"
+   },
+   {
+       "ADM2_EN": "Tatale Sanguli",
+       "ADM2_PCODE": "GH0813",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1089.873657"
+   },
+   {
+       "ADM2_EN": "Tamale Metropolitan",
+       "ADM2_PCODE": "GH0812",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "647.6174927"
+   },
+   {
+       "ADM2_EN": "Nanton",
+       "ADM2_PCODE": "GH0806",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "476.7518311"
+   },
+   {
+       "ADM2_EN": "Sagnerigu",
+       "ADM2_PCODE": "GH0810",
+       "ADM1_EN": "Northern",
+       "ADM1_PCODE": "GH08",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "200.4716034"
+   },
+   {
+       "ADM2_EN": "West Mamprusi Municipal",
+       "ADM2_PCODE": "GH0905",
+       "ADM1_EN": "Northern East",
+       "ADM1_PCODE": "GH09",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2612.113525"
+   },
+   {
+       "ADM2_EN": "Mamprugu Moagduri",
+       "ADM2_PCODE": "GH0904",
+       "ADM1_EN": "Northern East",
+       "ADM1_PCODE": "GH09",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2122.467529"
+   },
+   {
+       "ADM2_EN": "East Mamprusi",
+       "ADM2_PCODE": "GH0903",
+       "ADM1_EN": "Northern East",
+       "ADM1_PCODE": "GH09",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1707.534912"
+   },
+   {
+       "ADM2_EN": "Chereponi",
+       "ADM2_PCODE": "GH0902",
+       "ADM1_EN": "Northern East",
+       "ADM1_PCODE": "GH09",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1375.075439"
+   },
+   {
+       "ADM2_EN": "Bunkpurugu Nakpanduri",
+       "ADM2_PCODE": "GH0901",
+       "ADM1_EN": "Northern East",
+       "ADM1_PCODE": "GH09",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "769.5142822"
+   },
+   {
+       "ADM2_EN": "Yunyoo-Nasuan",
+       "ADM2_PCODE": "GH0906",
+       "ADM1_EN": "Northern East",
+       "ADM1_PCODE": "GH09",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "487.9311523"
+   },
+   {
+       "ADM2_EN": "Krachi East Municipal",
+       "ADM2_PCODE": "GH1004",
+       "ADM1_EN": "Oti",
+       "ADM1_PCODE": "GH10",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2759.328857"
+   },
+   {
+       "ADM2_EN": "Nkwanta South Municipal",
+       "ADM2_PCODE": "GH1008",
+       "ADM1_EN": "Oti",
+       "ADM1_PCODE": "GH10",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2732.794922"
+   },
+   {
+       "ADM2_EN": "Krachi Nchumuru",
+       "ADM2_PCODE": "GH1005",
+       "ADM1_EN": "Oti",
+       "ADM1_PCODE": "GH10",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1195.165649"
+   },
+   {
+       "ADM2_EN": "Biakoye",
+       "ADM2_PCODE": "GH1001",
+       "ADM1_EN": "Oti",
+       "ADM1_PCODE": "GH10",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1105.973022"
+   },
+   {
+       "ADM2_EN": "Nkwanta North",
+       "ADM2_PCODE": "GH1007",
+       "ADM1_EN": "Oti",
+       "ADM1_PCODE": "GH10",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1098.018921"
+   },
+   {
+       "ADM2_EN": "Krachi West",
+       "ADM2_PCODE": "GH1006",
+       "ADM1_EN": "Oti",
+       "ADM1_PCODE": "GH10",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "929.074707"
+   },
+   {
+       "ADM2_EN": "Kadjebi",
+       "ADM2_PCODE": "GH1003",
+       "ADM1_EN": "Oti",
+       "ADM1_PCODE": "GH10",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "689.8080444"
+   },
+   {
+       "ADM2_EN": "Jasikan",
+       "ADM2_PCODE": "GH1002",
+       "ADM1_EN": "Oti",
+       "ADM1_PCODE": "GH10",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "555.8010864"
+   },
+   {
+       "ADM2_EN": "Central Gonja",
+       "ADM2_PCODE": "GH1102",
+       "ADM1_EN": "Savannah",
+       "ADM1_PCODE": "GH11",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "7557.847656"
+   },
+   {
+       "ADM2_EN": "Bole",
+       "ADM2_PCODE": "GH1101",
+       "ADM1_EN": "Savannah",
+       "ADM1_PCODE": "GH11",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "6169.34375"
+   },
+   {
+       "ADM2_EN": "North East Gonja",
+       "ADM2_PCODE": "GH1104",
+       "ADM1_EN": "Savannah",
+       "ADM1_PCODE": "GH11",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "6090.094238"
+   },
+   {
+       "ADM2_EN": "North Gonja",
+       "ADM2_PCODE": "GH1105",
+       "ADM1_EN": "Savannah",
+       "ADM1_PCODE": "GH11",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "4846.881348"
+   },
+   {
+       "ADM2_EN": "West Gonja",
+       "ADM2_PCODE": "GH1107",
+       "ADM1_EN": "Savannah",
+       "ADM1_PCODE": "GH11",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "4717.677246"
+   },
+   {
+       "ADM2_EN": "Sawla-Tuna-Kalba",
+       "ADM2_PCODE": "GH1106",
+       "ADM1_EN": "Savannah",
+       "ADM1_PCODE": "GH11",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "4226.683105"
+   },
+   {
+       "ADM2_EN": "East Gonja Municipal",
+       "ADM2_PCODE": "GH1103",
+       "ADM1_EN": "Savannah",
+       "ADM1_PCODE": "GH11",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2254.479736"
+   },
+   {
+       "ADM2_EN": "Builsa South",
+       "ADM2_PCODE": "GH1208",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1241.858032"
+   },
+   {
+       "ADM2_EN": "Bawku West",
+       "ADM2_PCODE": "GH1202",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1071.700317"
+   },
+   {
+       "ADM2_EN": "Kasena Nankana West",
+       "ADM2_PCODE": "GH1211",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "873.1151123"
+   },
+   {
+       "ADM2_EN": "Talensi",
+       "ADM2_PCODE": "GH1214",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "838.5971069"
+   },
+   {
+       "ADM2_EN": "Builsa North",
+       "ADM2_PCODE": "GH1207",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "816.5744019"
+   },
+   {
+       "ADM2_EN": "Kasena Nankana East",
+       "ADM2_PCODE": "GH1210",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "767.2897339"
+   },
+   {
+       "ADM2_EN": "Garu",
+       "ADM2_PCODE": "GH1209",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "675.6593628"
+   },
+   {
+       "ADM2_EN": "Bongo",
+       "ADM2_PCODE": "GH1206",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "414.8935547"
+   },
+   {
+       "ADM2_EN": "Binduri",
+       "ADM2_PCODE": "GH1203",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "391.9190369"
+   },
+   {
+       "ADM2_EN": "Tempane",
+       "ADM2_PCODE": "GH1215",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "385.7240295"
+   },
+   {
+       "ADM2_EN": "Bolgatanga Municipal",
+       "ADM2_PCODE": "GH1205",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "325.2146912"
+   },
+   {
+       "ADM2_EN": "Pusiga",
+       "ADM2_PCODE": "GH1213",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "255.6421814"
+   },
+   {
+       "ADM2_EN": "Bawku Municipal",
+       "ADM2_PCODE": "GH1201",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "247.2364044"
+   },
+   {
+       "ADM2_EN": "Nabdam",
+       "ADM2_PCODE": "GH1212",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "245.0213776"
+   },
+   {
+       "ADM2_EN": "Bolga  East",
+       "ADM2_PCODE": "GH1204",
+       "ADM1_EN": "Upper East",
+       "ADM1_PCODE": "GH12",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "71.82164001"
+   },
+   {
+       "ADM2_EN": "Sissala East",
+       "ADM2_PCODE": "GH1307",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "5095.354004"
+   },
+   {
+       "ADM2_EN": "Wa East",
+       "ADM2_PCODE": "GH1309",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "4298.143066"
+   },
+   {
+       "ADM2_EN": "Sissala West",
+       "ADM2_PCODE": "GH1308",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2050.191895"
+   },
+   {
+       "ADM2_EN": "Wa West",
+       "ADM2_PCODE": "GH1311",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1491.533447"
+   },
+   {
+       "ADM2_EN": "Daffiama Bussie Issa",
+       "ADM2_PCODE": "GH1301",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1455.877075"
+   },
+   {
+       "ADM2_EN": "Jirapa",
+       "ADM2_PCODE": "GH1302",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1188.209595"
+   },
+   {
+       "ADM2_EN": "Nadowli-Kaleo",
+       "ADM2_PCODE": "GH1305",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1131.735962"
+   },
+   {
+       "ADM2_EN": "Lambussie-Karni",
+       "ADM2_PCODE": "GH1303",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "811.4154663"
+   },
+   {
+       "ADM2_EN": "Wa Municipal",
+       "ADM2_PCODE": "GH1310",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "579.565979"
+   },
+   {
+       "ADM2_EN": "Lawra",
+       "ADM2_PCODE": "GH1304",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "527.0980225"
+   },
+   {
+       "ADM2_EN": "Nandom",
+       "ADM2_PCODE": "GH1306",
+       "ADM1_EN": "Upper West",
+       "ADM1_PCODE": "GH13",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "404.3361816"
+   },
+   {
+       "ADM2_EN": "North Tongu",
+       "ADM2_PCODE": "GH1416",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1131.211182"
+   },
+   {
+       "ADM2_EN": "Ho West",
+       "ADM2_PCODE": "GH1409",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1002.459106"
+   },
+   {
+       "ADM2_EN": "Adaklu",
+       "ADM2_PCODE": "GH1401",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "800.8834229"
+   },
+   {
+       "ADM2_EN": "Hohoe Municipal",
+       "ADM2_PCODE": "GH1410",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "683.9923096"
+   },
+   {
+       "ADM2_EN": "Central Tongu",
+       "ADM2_PCODE": "GH1407",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "682.137207"
+   },
+   {
+       "ADM2_EN": "South Tongu",
+       "ADM2_PCODE": "GH1418",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "643.3182983"
+   },
+   {
+       "ADM2_EN": "Ho Municipal",
+       "ADM2_PCODE": "GH1408",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "573.6102295"
+   },
+   {
+       "ADM2_EN": "Afadzato South",
+       "ADM2_PCODE": "GH1402",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "552.8984985"
+   },
+   {
+       "ADM2_EN": "Akatsi South",
+       "ADM2_PCODE": "GH1405",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "536.263855"
+   },
+   {
+       "ADM2_EN": "Keta Municipal",
+       "ADM2_PCODE": "GH1411",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "516.6831055"
+   },
+   {
+       "ADM2_EN": "North Dayi",
+       "ADM2_PCODE": "GH1415",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "463.1668396"
+   },
+   {
+       "ADM2_EN": "Ketu North",
+       "ADM2_PCODE": "GH1412",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "423.497467"
+   },
+   {
+       "ADM2_EN": "South Dayi",
+       "ADM2_PCODE": "GH1417",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "358.4315186"
+   },
+   {
+       "ADM2_EN": "Agotime Ziope",
+       "ADM2_PCODE": "GH1403",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "315.2698059"
+   },
+   {
+       "ADM2_EN": "Kpando Municipal",
+       "ADM2_PCODE": "GH1414",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "313.8889465"
+   },
+   {
+       "ADM2_EN": "Akatsi North",
+       "ADM2_PCODE": "GH1404",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "313.803009"
+   },
+   {
+       "ADM2_EN": "Ketu South",
+       "ADM2_PCODE": "GH1413",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "277.7425232"
+   },
+   {
+       "ADM2_EN": "Anloga",
+       "ADM2_PCODE": "GH1406",
+       "ADM1_EN": "Volta",
+       "ADM1_PCODE": "GH14",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "235.8288422"
+   },
+   {
+       "ADM2_EN": "Wassa Amenfi Central",
+       "ADM2_PCODE": "GH1511",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1845.303467"
+   },
+   {
+       "ADM2_EN": "Prestea/Huni Valley",
+       "ADM2_PCODE": "GH1507",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1809.411621"
+   },
+   {
+       "ADM2_EN": "Wassa East",
+       "ADM2_PCODE": "GH1514",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1652.259399"
+   },
+   {
+       "ADM2_EN": "Wassa Amenfi East",
+       "ADM2_PCODE": "GH1512",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1557.960815"
+   },
+   {
+       "ADM2_EN": "Jomoro",
+       "ADM2_PCODE": "GH1504",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1494.514404"
+   },
+   {
+       "ADM2_EN": "Wassa Amenfi West",
+       "ADM2_PCODE": "GH1513",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1448.924194"
+   },
+   {
+       "ADM2_EN": "Nzema East",
+       "ADM2_PCODE": "GH1506",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1084.211304"
+   },
+   {
+       "ADM2_EN": "Ellembelle",
+       "ADM2_PCODE": "GH1503",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "995.7508545"
+   },
+   {
+       "ADM2_EN": "Tarkwa Nsuaem",
+       "ADM2_PCODE": "GH1510",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "905.3718262"
+   },
+   {
+       "ADM2_EN": "Ahanta West Municipal",
+       "ADM2_PCODE": "GH1501",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "554.4541016"
+   },
+   {
+       "ADM2_EN": "Mpohor",
+       "ADM2_PCODE": "GH1505",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "524.8491211"
+   },
+   {
+       "ADM2_EN": "Shama",
+       "ADM2_PCODE": "GH1509",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "193.8758545"
+   },
+   {
+       "ADM2_EN": "Effia Kwesimintsim Municipal",
+       "ADM2_PCODE": "GH1502",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "104.8648605"
+   },
+   {
+       "ADM2_EN": "Sekondi Takoradi Metropolis",
+       "ADM2_PCODE": "GH1508",
+       "ADM1_EN": "Western",
+       "ADM1_PCODE": "GH15",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "86.57923126"
+   },
+   {
+       "ADM2_EN": "Aowin",
+       "ADM2_PCODE": "GH1601",
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "2609.596924"
+   },
+   {
+       "ADM2_EN": "Juaboso",
+       "ADM2_PCODE": "GH1606",
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1369.026489"
+   },
+   {
+       "ADM2_EN": "Bia West",
+       "ADM2_PCODE": "GH1603",
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1286.423584"
+   },
+   {
+       "ADM2_EN": "Sefwi Akontombra",
+       "ADM2_PCODE": "GH1607",
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1119.443359"
+   },
+   {
+       "ADM2_EN": "Sefwi-Wiawso",
+       "ADM2_PCODE": "GH1608",
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "1011.331055"
+   },
+   {
+       "ADM2_EN": "Bibiani-Anhwiaso-Bekwai Municipal",
+       "ADM2_PCODE": "GH1604",
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "833.8818359"
+   },
+   {
+       "ADM2_EN": "Bia East",
+       "ADM2_PCODE": "GH1602",
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "783.2565918"
+   },
+   {
+       "ADM2_EN": "Bodi",
+       "ADM2_PCODE": "GH1605",
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "661.9880981"
+   },
+   {
+       "ADM2_EN": "Suaman",
+       "ADM2_PCODE": "GH1609",
+       "ADM1_EN": "Western North",
+       "ADM1_PCODE": "GH16",
+       "ADM0_EN": "Ghana",
+       "ADM0_PCODE": "GH",
+       "AREA_SQKM": "399.8708191"
+   }
+]
