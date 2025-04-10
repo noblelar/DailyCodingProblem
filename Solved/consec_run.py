@@ -12,9 +12,9 @@ def get_binary(num):
 
 
 def consec_run(num):
-   consec_count = 0
-   count = 0
-   print(num)
+   consec_count = 0 
+   count = 0 
+   print(num) 
 
    num_in_binary = get_binary(num)
    print(len(num_in_binary))
