@@ -12,4 +12,25 @@ let_values = {
 
 
 print(len(let_values))
-print(let_values.keys())
+# print(let_values.keys())
+
+
+def getRom_num(dec_num):
+   rom_num_value = 0
+
+   for index, item in enumerate(dec_num):
+      # print(index, item)
+      next_index = 0
+      if(index < len(dec_num)-1):
+         next_index = index + 1
+         # print("next_item", dec_num[next_index])
+         next_item = dec_num[next_index]
+      if(let_values[item] < let_values[next_item] ):
+         rom_num_value - let_values[item]
+      else:
+         rom_num_value + let_values[next_item] 
+
+
+   return rom_num_value
+
+print(getRom_num("IV"))
