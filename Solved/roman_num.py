@@ -11,7 +11,7 @@ let_values = {
 }
 
 
-print(len(let_values))
+# print(len(let_values))
 # print(let_values.keys())
 
 
@@ -25,12 +25,13 @@ def getRom_num(dec_num):
          next_index = index + 1
          # print("next_item", dec_num[next_index])
          next_item = dec_num[next_index]
+      print(let_values[item] , let_values[next_item] )
       if(let_values[item] < let_values[next_item] ):
-         rom_num_value - let_values[item]
+         rom_num_value = rom_num_value - let_values[item]
       else:
-         rom_num_value + let_values[next_item] 
+         rom_num_value = rom_num_value + let_values[item] 
 
 
    return rom_num_value
 
-print(getRom_num("IV"))
+print(getRom_num("XV"))
