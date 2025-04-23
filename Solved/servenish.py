@@ -7,11 +7,16 @@ def sevenish (n):
 
    while count < n: 
       next = 7**n 
-      sevenish_list.append(next) 
       if n%2 == 1: 
          next = sevenish_list[count] + sevenish_list[count-1] 
+         sevenish_list.append(next) 
+      else:
+         sevenish_list.append(next) 
+         
+      count += 1
 
    print(sevenish_list)
+
    return sevenish_list
 
 
