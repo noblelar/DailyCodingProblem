@@ -1,26 +1,17 @@
 
 
-def sevenish (n):
-   sevenish_list = []
+def sevenish_number(n):
+    result = 0
+    power = 0
+    while n > 0:
+        if n & 1:
+            result += 7 ** power
+            print(result, power, n)
+        power += 1
+        n >>= 1
+    return result
 
-   count = 0
-
-   while count < n: 
-      next = 7**n 
-      if n%2 == 1: 
-         next = sevenish_list[count] + sevenish_list[count-1] 
-         sevenish_list.append(next) 
-      else:
-         sevenish_list.append(next) 
-         
-      count += 1
-
-   print(sevenish_list)
-
-   return sevenish_list
-
-
-the_list = sevenish(5)
+the_list = sevenish_number(5)
 print(the_list)
 
 
